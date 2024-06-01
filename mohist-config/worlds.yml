@@ -1,0 +1,21 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: 4330265585026558854
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: PEACEFUL
+    mohist: false
+  DIM1:
+    worldborder: 5.9999968E7
+  DIM-1:
+    worldborder: 5.9999968E7
+  XLRT_Main_World:
+    worldborder: 5.9999968E7
+    seed: 8428995895845605086
+    environment: NORMAL
+    name: XLRT_Main_World
+    info: -/-
+    difficulty: PEACEFUL
+    mohist: false
